@@ -1,1 +1,1 @@
-# EFI-Dell-E7440
+# Dell-E7440
