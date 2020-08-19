@@ -30,3 +30,16 @@ If you don't know anything about what Hackintosh is then you must read about it 
 
 # Good Luck
 # On My Laptop everything works except Wifi and Bluetooth.
+
+# List of the kexts which can be usedful 
+Appleps2controller
+Lilu
+USBinjectall
+Whatevergreen
+AppleALC 
+FakePCIID_Intel_HD_Graphics
+SMCBatterymanager
+BrcmFirmwarerepo
+Brcmpatchram
+CodecCommander
+DisableTurboBoostBattery
