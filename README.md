@@ -3,6 +3,10 @@ If you also own Dell Latitiude E7440 then you can use this EFI Configuration in 
 You can download Hackintosh Mojave from `getintopc.com` I have used `Niresh Hackintosh Mojave` for reference you can use the same.
 If you don't know anything about what Hackintosh is then you must read about it on Google.
 
+# Note
+I have added Clover and Opencore Configurations as per model Dell Latitude E7440 but opencore is in beta stages so I would recommend to use Clover Boootloader.
+The opencore cofiguration is as per Mac OS Catalina but I doubt it will run perfectly. OC = Opencore && Clover = Clover 
+
 # Steps to install Hackintosh 
 1. You need to ensure hardware compatibilty if you donot own E7440.
 2. You must have a USB which is more than 8Gib or atleast 8Gib.
